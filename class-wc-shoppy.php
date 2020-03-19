@@ -5,7 +5,7 @@ if (!defined('ABSPATH')) {
 
 /**
  * Plugin Name: Shoppy WooCommerce Payment Gateway
- * Plugin URI: http://github.com/shoppygg/shoppy-woocommerce
+ * Plugin URL: http://github.com/shoppygg/shoppy-woocommerce
  * Description:  A payment gateway for Shoppy Pay
  * Author: Shoppy
  * Author URI: https://shoppy.gg
